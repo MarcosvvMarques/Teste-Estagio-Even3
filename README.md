@@ -15,10 +15,10 @@ e suas informações serão exibidas em uma lista abaixo do formulário.
 
 ## 📁 Estrutura de Arquivos
 
-/meu-projeto
-- index.html   #Página principal com o formulário
-- style.css    #Estilos visuais do projeto
-- script.js    #lógica de interação com o formulário
+/seu-repositorio
+├── index.html
+├── style.css
+└── script.js
 
 ---
 
