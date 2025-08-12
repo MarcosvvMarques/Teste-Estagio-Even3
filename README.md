@@ -1,3 +1,6 @@
+🔗 [Acesse o projeto online](https://formulario-even3.vercel.app/)
+
+
 # 📝 Formulário de Inscrição para Evento (Desafio de Estágio - Even3)
 
 Este projeto é um formulário simples de inscrição para eventos, desenvolvido com HTML, CSS e JavaScript. Os participantes podem inserir seu nome e e-mail,
@@ -24,8 +27,8 @@ e suas informações serão exibidas em uma lista abaixo do formulário.
 
 ## 📂 Como rodar o projeto
 
-1. Clone ou baixe este repositório;
-2. Abra o arquivo `index.html` em seu navegador;
+1. Abra o link do projeto (https://formulario-even3.vercel.app/) ou clone/baixe este repositório;
+2. Caso prefira baixar/clonar o repositório, abra o arquivo `index.html` em seu navegador;
 3. Preencha o formulário com seu nome e um e-mail;
 4. Clique em **Inscrever** e veja os dados aparecerem automaticamente na lista de inscritos.
  
